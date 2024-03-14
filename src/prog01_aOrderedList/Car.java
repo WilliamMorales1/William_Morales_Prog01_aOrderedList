@@ -82,7 +82,7 @@ public class Car implements Comparable<Car> {
      * Compares this car to another car based on make and year.
      *
      * @param other The other car being compared.
-     * @return 1 if the make is greater alphabetically, -1 if not, and if makes are the same, compares years.
+     * @return 1 if the make is greater alphabetically, and if makes are the same, compares years.
      * 
      * CSC 1351 Programming Project No 1
 	 * Section 2
